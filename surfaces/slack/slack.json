@@ -1,0 +1,16 @@
+{
+  "account_id": "${slack_account}",
+  "config": {
+    "channels": [
+      {
+        "agent_name": "roaster",
+        "channel_id": "C090FFBDBLZ",
+        "channel_name": "product-and-dev"
+      }
+    ]
+  },
+  "credential_mode": "CUSTOM",
+  "is_enabled": true,
+  "name": "slack",
+  "platform": "SLACK"
+}
