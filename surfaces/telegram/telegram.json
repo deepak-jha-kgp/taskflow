@@ -1,0 +1,7 @@
+{
+  "account_id": "${telegram_account}",
+  "credential_mode": "CUSTOM",
+  "is_enabled": true,
+  "name": "telegram",
+  "platform": "TELEGRAM"
+}
