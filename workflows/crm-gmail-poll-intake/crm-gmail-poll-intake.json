@@ -1,0 +1,60 @@
+{
+  "description": "Cron-started Gmail poller that discovers new candidate CRM emails and writes durable queue rows.",
+  "edges": [
+    {
+      "id": "e1",
+      "label": null,
+      "source": "poll_gmail",
+      "target": "complete_flow"
+    }
+  ],
+  "icon_url": null,
+  "mode": "GLOBAL",
+  "name": "crm-gmail-poll-intake",
+  "nodes": [
+    {
+      "config": {
+        "function_name": "poll-gmail-relevant-emails",
+        "input_mapping": {
+          "directions": {
+            "type": "literal",
+            "value": [
+              "RECEIVED",
+              "SENT"
+            ]
+          },
+          "lookback_days": {
+            "type": "literal",
+            "value": 1
+          },
+          "max_results_per_direction": {
+            "type": "literal",
+            "value": 25
+          },
+          "organization_id": {
+            "type": "literal",
+            "value": "019eb212-87e6-722c-a328-fdbdc28336a0"
+          }
+        }
+      },
+      "id": "poll_gmail",
+      "label": "Poll Gmail and enqueue",
+      "position": null,
+      "type": "FUNCTION"
+    },
+    {
+      "config": {},
+      "id": "complete_flow",
+      "label": "Done",
+      "position": null,
+      "type": "END"
+    }
+  ],
+  "start": {
+    "config": {
+      "schedule_type": "CRON"
+    },
+    "type": "SCHEDULED"
+  },
+  "visibility": "POD"
+}
