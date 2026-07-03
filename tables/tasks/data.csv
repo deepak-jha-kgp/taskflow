@@ -1,0 +1,125 @@
+id,title,description,status,priority,assignee,due_date,sort_order,project_id
+95172498-66f6-4b25-9170-2f8069d11794,Sigmoid Gmail Connection,"1. oauth redirect URI change
+2. test connection with Latika
+3. Email with Gokul to connect his gmail",in_progress,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1783078624.239,b7eee4f9-f929-4989-bebd-3aefd7b0db01
+ac100890-bf69-4d0c-aa03-e57e93b6af4e,Hiring Partner Update,,in_progress,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1783078511.987,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+1e511ad1-51d2-4dd2-8055-8128e803eb20,Call with top 25,,todo,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1783078491.762,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+96e2683b-bc5a-4902-b228-2ce1cfdb3539,Juding round 2 - manual,,todo,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1783078476.279,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+c5c46920-ad0f-45d4-83b3-ea0d524f13d0,Judging round 1 with Claude,,in_progress,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1783078463.52,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+642f727b-b01a-4cd8-b567-08c46e5222ab,test,,in_progress,medium,,,1782560914.308,
+8cb7a692-cb6a-463e-ad55-45152987399f,Discord group rules banana,"Community ke liye Discord server ke group rules draft karne hain (onboarding, channels, moderation, posting guidelines).",todo,medium,ayush@gappy.ai,2026-07-01,0.0,
+f1cf0aeb-26de-4f86-8d89-78ab2ddf2558,Unstop: SDK Github link with video + event details,,done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1782208279.149,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+78f2b05a-25dc-4cf9-9f70-25ce5581c4ec,IIT B Email,,done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1782104555.552,
+536a61f1-b7e5-45e2-b501-6d2c76094844,Unstop: Follow-up email + new registrants email,,done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-22,1781764973.469,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+ded2afd6-84e1-4f58-aa2a-b70e878244d0,Improve and Redesign Typescript SDK to prepare for public release,"- ensure new sdk has general cleaner desing and easy to understand api. 
+- Provide hooks to do assistant chat, workflow UI, agent running view easily if possible as these are most used. 
+- Allow using js version for html deks and widget",done,medium,9452add2-8d96-4ce3-95fc-f05fc6128f39,,1781693383.81,013e545a-d3a0-4117-b404-e6ac63a49187
+8fcad7b8-27c9-4613-a370-74aeb2950da3,Content Manager POD: Phase 9 - Telegram Capture.,"Goal: add the first external capture surface after desk capture is stable.
+What it adds:
+
+Telegram inbound capture
+Route Telegram messages into capture_idea
+Store captured ideas with source = telegram
+Show Telegram source on Board
+Add capture channel status in Settings
+Seed Telegram-style payloads and at least one Telegram-sourced idea locally",todo,medium,,,1781509959.588,
+43dc4242-d406-4097-8507-0cb843809e90,Content Engine Finalise,"Content engine gives claude context to operate and assist in the content narrative process
+- Project briefs
+- refine styles",in_progress,medium,,,1781509824.309,
+aa474c3b-bd7a-4920-87dd-ea7f5a842a74,LEDFlex Pod test,Test whether the redesign by Anukul works or not,todo,urgent,,,1781509734.428,
+2679ac06-0f62-4ac7-a16a-46669a46d3cb,Commitment Manager: people and profile tab,"Redesign
+Add good screen to show synced contacts -",todo,medium,,,1781509700.729,cd1a187a-1483-4488-b801-ce49143f2756
+ec35c834-2393-41cf-bcf4-d752a01f22e6,Validate Universal Fit: content pod,"Review the updated experience from the perspective of different users, such as a lifestyle brand, service business, creator, and tech product, to ensure nothing implies the pod is only for founder-led or tech-product content.
+Simulate one user journey for content.",todo,medium,,,0.0,cd1a187a-1483-4488-b801-ce49143f2756
+d810f96d-34dd-4c30-b7fa-a9b7c3057f5b,Preserve Demo Story Without Narrowing the Product,"Keep the simulated data centered on the founder use case so the demo still tells the current story, but make sure it is presented as one example rather than the default audience for the pod.",todo,medium,,,0.0,cd1a187a-1483-4488-b801-ce49143f2756
+d184309d-030d-4872-959c-54cd81dffcde,Reorganize Content Inputs,"Review how content-influencing inputs are grouped, especially in Settings. Make sections like claims, blocked claims, proof points, audience context, voice, and content pillars feel applicable to any brand or content operation.",todo,medium,,,0.0,cd1a187a-1483-4488-b801-ce49143f2756
+feb33349-73c1-482a-8e6f-621e2beaafb5,Generalize Product Positioning,"Update the pod’s language so it is positioned as a universal content management system for brands, creators, services, communities, and products, rather than something designed specifically for founders or tech products.",todo,medium,,,0.0,cd1a187a-1483-4488-b801-ce49143f2756
+4a4a7ff5-3740-4b76-9f11-667d2f35d5ea,"Demo Data, QA & Acceptance Criteria",,done,medium,,,1781506869.563,cd1a187a-1483-4488-b801-ce49143f2756
+c3aa49f2-b16f-4765-b046-233f24a72eb3,Foxo Research Pod,,in_progress,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1781499640.692,
+2e68b08a-8a53-4fe7-a993-5fd4218da401,Email surface behavior & filtering design,"Design and implement proper behavior for email surfaces, with attention to filtering (e.g. subject/label/from-address based rules). Without solid filtering, setting up surfaces becomes painful. Decide filter model, default behavior, and edge cases before enabling surface setup for the team.",todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,0.0,013e545a-d3a0-4117-b404-e6ac63a49187
+193a8738-f806-4eae-8fac-ef20124a2284,Frontend: Org home page (/org/org-name),"Support an org page in the frontend with format /org/org-name semantics. This will be the home page of an org and should show all pods accessible to the current user, plus any other relevant org info.",todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,0.0,
+3420180c-9adf-47bd-8a06-f867de993ae0,Hackathon update to hiring partners,share email on hackathon update to hiring partners,done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-15,1781337595.549,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+2d711aa8-2129-4a08-99fb-a6096e06ddaf,Email unstop candidates for joining community,,done,high,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-15,1781337517.013,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+3380f265-72c0-445e-b423-9bd54e1039f7,Email unstop candidates - for registration completion,,done,high,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-15,1781337492.8,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+4e4b4721-3934-47a1-a6b0-238a28f2f9a4,Conventions doc: Anatomy of a Lemma app,"Write the Moat-3 launch asset: the anatomy of a Lemma app — ten parts, lifecycle, ten conventions. After it, a builder who has seen one Lemma app understands every Lemma app.",done,medium,9452add2-8d96-4ce3-95fc-f05fc6128f39,,0.0,
+29d670a6-053c-40e3-9991-71519efa0550,Mac app download link + auto-update story,Resolve README TODO for Mac app download link and auto-update mechanism. Gates GTM launch assets.,todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,0.0,
+045ffa97-bf82-48c3-8bfd-e7e5ba2c9131,P0 silent failure fixes,"Fix schedule INSERT bug, context-path nulls, form-shape mismatch, folder-grant cascade. In-flight. Gated on Eₐ ledger — launch blocked until cleared.",todo,high,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,0.0,
+014984e4-5652-4b04-b0e2-f72de7eac197,Live public read-only pod mechanism,Build sharing/visibility mechanism for public read-only pods. Gated on Eₐ ledger. Needed for every receipt link in launch.,todo,high,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,0.0,
+3fb58cfc-7283-4eb9-a713-25d22d40c7a2,Hero GIF production for launch,"Produce the primary hero GIF showing mixed human/agent assignee column: task queue where agent qualifies lead, score fills, review task lands on human, approval pings phone. Launch Day 0 asset.",todo,medium,9452add2-8d96-4ce3-95fc-f05fc6128f39,,0.0,
+53f815c5-75d1-479e-8814-1503ac2cc682,Subscription-login ToS answer,"Resolve the ToS question for subscription-login. Gates the headline in README, Show HN, X thread 1, r/ClaudeAI post.",todo,high,9452add2-8d96-4ce3-95fc-f05fc6128f39,,0.0,
+75117ba3-2402-4736-8599-277f5e8744c2,Agent-default benchmark baseline,Cold-prompt Claude Code & Codex with 5 standard asks; record whether they reach for Lemma unprompted. Re-run monthly. The Moat-2 KPI.,todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,0.0,
+d4b0a1f2-a87b-4e0d-90ae-728c2d86f291,Gappy.ai landing page -> redirect to lemma.work,,done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1781337321.808,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+237d8115-9576-4cf3-9d7c-a49af3e17d36,Bug: Telegram file download failing,"## Summary
+The Lemma Telegram integration is failing to download attached files into the workspace. Both voice and image attachments are affected. The `telegram_download_file` tool returns an error instead of saving the file.
+
+## Reproduction
+User sends a file attachment to the bot via Telegram. Agent attempts to download using `telegram_download_file`.
+
+### Incident 1 — Voice message
+- **When:** 2026-06-13
+- **User:** Deepak
+- **File type:** voice (audio/ogg)
+- **Size:** 146,051 bytes
+- **Tool called:** `telegram_download_file` with `file_name=""voice""`
+- **Result:** `{""success"": false, ""error"": ""Telegram file download failed unexpectedly."", ""file_name"": null, ""file_size"": null, ""saved_path"": null}`
+- **Retry:** Second call with no arguments also failed with the same error
+
+### Incident 2 — Photo
+- **When:** 2026-06-13
+- **User:** Deepak
+- **File type:** photo (image/jpeg)
+- **Size:** 123,513 bytes
+- **Tool called:** `telegram_download_file` with `file_name=""photo""`
+- **Result:** `{""success"": false, ""error"": ""Telegram file download failed unexpectedly."", ""file_name"": null, ""file_size"": null, ""saved_path"": null}`
+- **Retry:** Second call with no arguments also failed with the same error
+
+## Error
+Both attempts return the same generic error envelope:
+```json
+{
+  ""success"": false,
+  ""error"": ""Telegram file download failed unexpectedly."",
+  ""message"": null,
+  ""file_name"": null,
+  ""file_size"": null,
+  ""saved_path"": null
+}
+```
+
+Note that all metadata fields (`file_name`, `file_size`, `saved_path`) are `null` — the wrapper does not even populate the basics, which suggests the failure happens before file metadata is hydrated (likely at the Telegram Bot API `getFile` call or during the downstream download).
+
+## Hypothesis
+1. **Telegram SDK credentials / token** — bot token missing, revoked, or wrong chat scope
+2. **Network egress** — sandbox cannot reach `api.telegram.org` for the file blob URL
+3. **File ID passthrough** — wrapper expects `file_id` but attachment descriptor only exposes `file_name`
+4. **MIME handling** — wrapper may be choking on `voice/*` or pJPEG from Telegram
+
+## Suggested fix surface
+- Audit `telegram_download_file` implementation against Telegram Bot API spec
+- Verify bot token, allowed_updates, and webhook setup
+- Add structured error messages (distinguish network vs auth vs not-found)
+- Populate `file_name`, `file_size`, and `saved_path` even on failure for better debugging
+- Add a unit test fixture with a known Telegram file blob
+- Cover voice, photo, document, and video MIME types
+
+## Impact
+Cannot process any user-attached media from Telegram — voice notes, images, documents all blocked. Affects every conversation that depends on analyzing user-uploaded content via the Lemma Telegram surface.",todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,0.0,
+1ac106b5-b298-47c7-a8e6-09f6d9f96104,Sigmoid Pod Transfer,,done,medium,9452add2-8d96-4ce3-95fc-f05fc6128f39,,1781269731.085,b7eee4f9-f929-4989-bebd-3aefd7b0db01
+cf76cfcc-7927-492c-b819-3af3265e71aa,Start instructions for Schedule,,todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,1781269665.26,013e545a-d3a0-4117-b404-e6ac63a49187
+95241269-0096-4fad-b412-a9ab002b81e6,Workspace Addons,,todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,1781269535.889,013e545a-d3a0-4117-b404-e6ac63a49187
+8a6c5da1-956d-474a-af04-4002e87bccd5,Auto Join Pod,,todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,1781269523.711,013e545a-d3a0-4117-b404-e6ac63a49187
+f8642c0f-2dc7-4ee7-acb0-6623e6b0b0a9,Notification Service,,todo,medium,12ef6f67-b6bf-40c8-878b-c0adf7a56839,,1781269508.783,013e545a-d3a0-4117-b404-e6ac63a49187
+f237f3a6-dee9-42a0-a482-948644cc246c,Templates & Kits,,done,medium,9452add2-8d96-4ce3-95fc-f05fc6128f39,,1781269478.084,
+45608b65-10f7-40f7-a638-15ae2197e92b,Documentation for Company,"- Brand Voice
+- Objection Handling
+- Messaging",done,medium,9452add2-8d96-4ce3-95fc-f05fc6128f39,,1781269430.41,
+556442b3-4bbb-4244-8f47-98f7894ffbdd,Personal Assistant Pod Specs,"- write specs, finalise flows",todo,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,,1781249566.925,
+a81ed9d1-0d33-48b1-bdec-0ff23d5c8642,[Sigmoid] Handover for gmail connection,"1. Test everything
+2. Share with gokul on email for connection",done,high,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-15,1781249305.07,b7eee4f9-f929-4989-bebd-3aefd7b0db01
+42a3cbf5-463a-446d-8b7c-a9e4fbd50403,[Sigmoid] Request for resource alignment,Dev to align a resource for testing,done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-12,1781249265.166,b7eee4f9-f929-4989-bebd-3aefd7b0db01
+0d5cc5a7-a132-4001-8bff-133924e4eebd,Discord Engagement Plan,TBD,done,high,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-15,1781249157.393,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+69099cb4-ec72-44ee-9fb0-3d007764df0d,Discord Onboarding,- direct participants to both general and hackathon channel by addin questions in onboarding,done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-13,1781249116.576,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+9ce66fe4-3567-439f-88fe-c82be275a153,KGP Email,"- write copy
+- get the email sent",done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-15,1781248947.319,37b86f40-ed36-4a80-91ce-ddd6f16c148a
+ee8d79a8-0c09-451a-87b2-cbe613854d5f,Other IITs CDC & student representatives reachout,"- get contacts (intern working on it)
+- send emails in batches",done,medium,91ee5034-c708-43b5-b698-47fd82bc3f10,2026-06-15,1781248909.358,37b86f40-ed36-4a80-91ce-ddd6f16c148a
