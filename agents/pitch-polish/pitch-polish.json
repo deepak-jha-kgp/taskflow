@@ -1,0 +1,51 @@
+{
+  "agent_runtime": null,
+  "description": "Refines rough startup ideas into sharp, memorable 30-second elevator pitches.",
+  "icon_url": null,
+  "input_schema": null,
+  "instruction": {
+    "$file": "instruction.md"
+  },
+  "metadata": null,
+  "name": "pitch-polish",
+  "output_schema": {
+    "properties": {
+      "problem": {
+        "description": "The pain in one sentence",
+        "type": "string"
+      },
+      "score": {
+        "description": "Self-rated clarity after polish",
+        "maximum": 10,
+        "minimum": 1,
+        "type": "integer"
+      },
+      "solution": {
+        "description": "What you do in one sentence",
+        "type": "string"
+      },
+      "tagline": {
+        "description": "One-line hook (under 12 words)",
+        "type": "string"
+      },
+      "thirty_second_pitch": {
+        "description": "A polished spoken pitch of ~75 words",
+        "type": "string"
+      },
+      "why_now": {
+        "description": "Why this matters right now",
+        "type": "string"
+      }
+    },
+    "required": [
+      "tagline",
+      "problem",
+      "solution",
+      "thirty_second_pitch",
+      "score"
+    ],
+    "type": "object"
+  },
+  "toolsets": [],
+  "visibility": "PERSONAL"
+}
