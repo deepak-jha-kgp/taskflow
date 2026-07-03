@@ -1,0 +1,23 @@
+{
+  "contents": {
+    "with_data": true
+  },
+  "description": "Simple task management for teams",
+  "format_version": 2,
+  "icon_url": null,
+  "name": "TaskFlow",
+  "variables": {
+    "slack_account": {
+      "description": "Connector account for the slack surface",
+      "platform": "slack",
+      "source_value": "019ebad7-9c4f-7143-8273-60e9ff368696",
+      "type": "account"
+    },
+    "telegram_account": {
+      "description": "Connector account for the telegram surface",
+      "platform": "telegram",
+      "source_value": "019ebfe4-bcdb-76ef-a02b-74512c637879",
+      "type": "account"
+    }
+  }
+}
