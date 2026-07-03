@@ -1,0 +1,75 @@
+{
+  "agent_runtime": null,
+  "description": "Brutally honest, comically sharp feedback on a startup idea. Roast first, redeem second.",
+  "icon_url": null,
+  "input_schema": null,
+  "instruction": {
+    "$file": "instruction.md"
+  },
+  "metadata": null,
+  "name": "roaster",
+  "output_schema": {
+    "properties": {
+      "kill_question": {
+        "description": "The single question a smart skeptic would ask that the founder probably can't answer yet.",
+        "type": "string"
+      },
+      "salvage_hint": {
+        "description": "If salvageable, the cheapest concrete next step to test the idea",
+        "type": "string"
+      },
+      "salvageable": {
+        "description": "Honest verdict",
+        "type": "boolean"
+      },
+      "swot": {
+        "properties": {
+          "opportunities": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "strengths": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "threats": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "weaknesses": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          }
+        },
+        "required": [
+          "strengths",
+          "weaknesses",
+          "opportunities",
+          "threats"
+        ],
+        "type": "object"
+      },
+      "the_burn": {
+        "description": "A single scorching one-liner about the idea. The first thing a VC would mutter.",
+        "type": "string"
+      }
+    },
+    "required": [
+      "the_burn",
+      "swot",
+      "kill_question",
+      "salvageable"
+    ],
+    "type": "object"
+  },
+  "toolsets": [],
+  "visibility": "POD"
+}
